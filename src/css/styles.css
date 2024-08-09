@@ -24,6 +24,10 @@
   -webkit-text-size-adjust: 100%;
 }
 
+.section {
+  margin-top: 12px;
+}
+
 .timer {
   display: flex;
   gap: 12px;
