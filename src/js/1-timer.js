@@ -68,6 +68,7 @@ function updateTime() {
 
     if (gap < 0) {
         clearInterval(interval);
+        inputEl.disabled = false;
         return;
     }
 
