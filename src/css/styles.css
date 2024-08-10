@@ -24,7 +24,6 @@
   -webkit-text-size-adjust: 100%;
 }
 
-/* -------- timer --------- */
 .section {
   margin-top: 12px;
 }
@@ -48,26 +47,4 @@
 .label {
   text-transform: uppercase;
   font-size: 12px;
-}
-
-/* -------- snackbar --------- */
-
-.form {
-  margin-top: 16px;
-}
-
-.input {
-  width: 222px;
-  height: 32px;
-  margin-bottom: 12px;
-}
-
-.form-fieldset {
-  width: 200px;
-  margin-bottom: 12px;
-}
-
-.btn {
-  width: 230px;
-  height: 24px;
 }
